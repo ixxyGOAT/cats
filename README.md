@@ -1,4 +1,4 @@
-![cat image](image/funnycat)
+![cat image](./funnycat)
 # Cats
 ## all about Cats
 [wikipedia page](https://en.wikipedia.org/wiki/Cat)
